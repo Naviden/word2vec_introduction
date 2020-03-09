@@ -1,5 +1,3 @@
-<img src="https://github.com/Naviden/word2vec_introduction/blob/master/Images/logo.png" height="300" >
-
 # An introduction to word2vec
 
 
